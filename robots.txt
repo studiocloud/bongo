@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bongo.bongocaps.com/sitemap.xml
